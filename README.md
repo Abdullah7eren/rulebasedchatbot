@@ -19,14 +19,14 @@ This is a deterministic, rule-based chatbot that responds to predefined user inp
 **Features**
 | _Feature_ | _Description_ |
 |---------|-------------|
-| 🗣️ **Greetings** | Responds to hello, hi, good morning, etc. |
-| 👋 **Farewells** | Handles bye, exit, quit commands |
-| ❓ **AI Knowledge** | Answers questions about AI, ML, deep learning |
-| ⏰ **Time & Date** | Tells current time and date |
-| 😄 **Fun** | Tells jokes and responds to "thank you" |
-| 📚 **Help Menu** | Shows all available commands |
-| 🔄 **Continuous Loop** | Runs until user types 'exit' |
-| 📝 **Conversation History** | Tracks all interactions |
+|  **Greetings** | Responds to hello, hi, good morning, etc. |
+|  **Farewells** | Handles bye, exit, quit commands |
+|  **AI Knowledge** | Answers questions about AI, ML, deep learning |
+|  **Time & Date** | Tells current time and date |
+|  **Fun** | Tells jokes and responds to "thank you" |
+|  **Help Menu** | Shows all available commands |
+|  **Continuous Loop** | Runs until user types 'exit' |
+|  **Conversation History** | Tracks all interactions |
 
 **How to Run**
 
